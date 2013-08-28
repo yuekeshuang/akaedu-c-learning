@@ -1,0 +1,34 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v136)
+"   /
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:exec
+" ============================================================================
+../
+./
+bin/
+boot/
+cdrom/
+dev/
+etc/
+home/
+lib/
+lost+found/
+media/
+mnt/
+opt/
+proc/
+root/
+sbin/
+selinux/
+srv/
+sys/
+tmp/
+usb/
+usr/
+var/
+initrd.img.old@
+initrd.img@
+vmlinuz.old@
+vmlinuz@

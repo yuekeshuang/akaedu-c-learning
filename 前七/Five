@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+printf("who\n");
+return 0;
+}

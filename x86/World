@@ -1,0 +1,3 @@
+all:
+	gcc world.c
+	./a.out

@@ -1,0 +1,21 @@
+  1 #include<stdio.h>
+  2 #include<string.h>
+  3 int main()
+  4 {
+  5  char *s="int a=5; /*定义一个变量值为5*/ int b=6";
+  6 char m[100],n[100],p[100];
+  7 int a,i,j=0,k=0;
+  8 /*a=strlen(s);
+  9 for(i=0;i<a;i++,m[j++]=*s++)
+ 10 if(*s=='/')
+ 11 break;*/
+ 12 for(s=a+s-1,j=0;s>0;s--)
+ 13 {
+ 14  if(*(s+a-1)=='/')
+ 15      break;
+ 16  n[j++]=*(s+a-1);
+ 17 }
+ 18 printf("%s",n);
+ 19 return 0;
+ 20 }
+~        

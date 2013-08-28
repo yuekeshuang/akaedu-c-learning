@@ -1,0 +1,3 @@
+all:
+	gcc max.c
+	./a.out
